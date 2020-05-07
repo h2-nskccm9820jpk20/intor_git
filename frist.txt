@@ -7,3 +7,5 @@ GIT ADD / commit
 git remove
 
 git status
+
+git diff 　r履歴をみる
